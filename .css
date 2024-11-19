@@ -1,0 +1,15 @@
+body {
+    font-family: 'Caprasimo', sans-serif;
+}
+button {
+    padding: 15px 20px;
+    font-size: 25px;
+    background-color: #28a745;
+    color: rgb(165, 217, 247);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #218838;
+}
